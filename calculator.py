@@ -1,3 +1,4 @@
+#calculator application
 import tkinter as tk
 
 # Function to update the display when a button is clicked
